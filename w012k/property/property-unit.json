@@ -56,17 +56,6 @@
       "description": "Lorem Ipsum is simply dummy text"
     }
   ],
-  "siteplan": [
-    {
-      "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
-    },
-    {
-      "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
-    },
-    {
-      "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
-    }
-  ],
   "coordinate": {
     "latitude": "1113333",
     "longitude": "4553222"
