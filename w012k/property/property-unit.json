@@ -1,108 +1,96 @@
-[
-  {
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-  },
-  {
-    "detail_unit": [
-      {
-        "name": "Kamar Tidur",
-        "total": 2,
-        "description": "Lorem Ipsum is simply dummy text"
-      },
-      {
-        "name": "Kamar Mandi",
-        "total": 1,
-        "description": "Lorem Ipsum is simply dummy text"
-      },
-      {
-        "name": "Jumlah Lantai",
-        "total": 1,
-        "description": "Lorem Ipsum is simply dummy text"
-      },
-      {
-        "name": "Parkir",
-        "total": 0,
-        "description": "Lorem Ipsum is simply dummy text"
-      }
-    ]
-  },
-  {
-    "facility": [
-      {
-        "name": "Lapangan Olah Raga (Basket/Badminton)",
-        "description": "Lorem Ipsum is simply dummy text"
-      },
-      {
-        "name": "GYM",
-        "description": "Lorem Ipsum is simply dummy text"
-      },
-      {
-        "name": "Ruang Serbaguna",
-        "description": "Lorem Ipsum is simply dummy text"
-      },
-      {
-        "name": "Joging Track",
-        "description": "Lorem Ipsum is simply dummy text"
-      },
-      {
-        "name": "Concierge 24 Jam",
-        "description": "Lorem Ipsum is simply dummy text"
-      },
-      {
-        "name": "25 Menit ke Bandara",
-        "description": "Lorem Ipsum is simply dummy text"
-      },
-      {
-        "name": "10 Menit ke Mall Terbesar",
-        "description": "Lorem Ipsum is simply dummy text"
-      },
-      {
-        "name": "Etc",
-        "description": "Lorem Ipsum is simply dummy text"
-      }
-    ]
-  },
-  {
-    "siteplan": [
-      {
-        "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
-      },
-      {
-        "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
-      },
-      {
-        "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
-      }
-    ]
-  },
-  {
-    "coordinate": {
-      "latitude": "1113333",
-      "longitude": "4553222"
+{
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "detail_unit": [
+    {
+      "name": "Kamar Tidur",
+      "total": 2,
+      "description": "Lorem Ipsum is simply dummy text"
+    },
+    {
+      "name": "Kamar Mandi",
+      "total": 1,
+      "description": "Lorem Ipsum is simply dummy text"
+    },
+    {
+      "name": "Jumlah Lantai",
+      "total": 1,
+      "description": "Lorem Ipsum is simply dummy text"
+    },
+    {
+      "name": "Parkir",
+      "total": 0,
+      "description": "Lorem Ipsum is simply dummy text"
     }
+  ],
+  "facility": [
+    {
+      "name": "Lapangan Olah Raga (Basket/Badminton)",
+      "description": "Lorem Ipsum is simply dummy text"
+    },
+    {
+      "name": "GYM",
+      "description": "Lorem Ipsum is simply dummy text"
+    },
+    {
+      "name": "Ruang Serbaguna",
+      "description": "Lorem Ipsum is simply dummy text"
+    },
+    {
+      "name": "Joging Track",
+      "description": "Lorem Ipsum is simply dummy text"
+    },
+    {
+      "name": "Concierge 24 Jam",
+      "description": "Lorem Ipsum is simply dummy text"
+    },
+    {
+      "name": "25 Menit ke Bandara",
+      "description": "Lorem Ipsum is simply dummy text"
+    },
+    {
+      "name": "10 Menit ke Mall Terbesar",
+      "description": "Lorem Ipsum is simply dummy text"
+    },
+    {
+      "name": "Etc",
+      "description": "Lorem Ipsum is simply dummy text"
+    }
+  ],
+  "siteplan": [
+    {
+      "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
+    },
+    {
+      "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
+    },
+    {
+      "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
+    }
+  ],
+  "coordinate": {
+    "latitude": "1113333",
+    "longitude": "4553222"
   },
-  {
-    "images": [
-      {
-        "original": "https://via.placeholder.com/1500?text=PROPERTY",
-        "compressed": "https://via.placeholder.com/300?text=PROPERTY"
-      },
-      {
-        "original": "https://via.placeholder.com/1500?text=PROPERTY",
-        "compressed": "https://via.placeholder.com/300?text=PROPERTY"
-      },
-      {
-        "original": "https://via.placeholder.com/1500?text=PROPERTY",
-        "compressed": "https://via.placeholder.com/300?text=PROPERTY"
-      },
-      {
-        "original": "https://via.placeholder.com/1500?text=PROPERTY",
-        "compressed": "https://via.placeholder.com/300?text=PROPERTY"
-      },
-      {
-        "original": "https://via.placeholder.com/1500?text=PROPERTY",
-        "compressed": "https://via.placeholder.com/300?text=PROPERTY"
-      }
-    ]
-  }
-]
+  "images": [
+    {
+      "original": "https://via.placeholder.com/1500?text=PROPERTY",
+      "compressed": "https://via.placeholder.com/300?text=PROPERTY"
+    },
+    {
+      "original": "https://via.placeholder.com/1500?text=PROPERTY",
+      "compressed": "https://via.placeholder.com/300?text=PROPERTY"
+    },
+    {
+      "original": "https://via.placeholder.com/1500?text=PROPERTY",
+      "compressed": "https://via.placeholder.com/300?text=PROPERTY"
+    },
+    {
+      "original": "https://via.placeholder.com/1500?text=PROPERTY",
+      "compressed": "https://via.placeholder.com/300?text=PROPERTY"
+    },
+    {
+      "original": "https://via.placeholder.com/1500?text=PROPERTY",
+      "compressed": "https://via.placeholder.com/300?text=PROPERTY"
+    }
+  ]
+}
