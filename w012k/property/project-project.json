@@ -36,13 +36,13 @@
   ],
   "siteplan": [
     {
-      "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
+      "image_url": "https://via.placeholder.com/1500?text=PROPERTY"
     },
     {
-      "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
+      "image_url": "https://via.placeholder.com/1500?text=PROPERTY"
     },
     {
-      "images_url": "https://via.placeholder.com/1500?text=PROPERTY"
+      "image_url": "https://via.placeholder.com/1500?text=PROPERTY"
     }
   ],
   "coordinate": {
@@ -51,24 +51,8 @@
   },
   "images": [
     {
-      "original": "https://via.placeholder.com/1500?text=PROPERTY",
-      "compressed": "https://via.placeholder.com/300?text=PROPERTY"
-    },
-    {
-      "original": "https://via.placeholder.com/1500?text=PROPERTY",
-      "compressed": "https://via.placeholder.com/300?text=PROPERTY"
-    },
-    {
-      "original": "https://via.placeholder.com/1500?text=PROPERTY",
-      "compressed": "https://via.placeholder.com/300?text=PROPERTY"
-    },
-    {
-      "original": "https://via.placeholder.com/1500?text=PROPERTY",
-      "compressed": "https://via.placeholder.com/300?text=PROPERTY"
-    },
-    {
-      "original": "https://via.placeholder.com/1500?text=PROPERTY",
-      "compressed": "https://via.placeholder.com/300?text=PROPERTY"
+      "original": "",
+      "compressed": ""
     }
   ]
 }
